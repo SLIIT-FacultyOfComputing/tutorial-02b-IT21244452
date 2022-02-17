@@ -32,7 +32,7 @@ using namespace std;
 
 int main()
 {
-  int no;  // define variables
+  int no;  //  define variables
   long fac = 1;
   int r;
 
